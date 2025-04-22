@@ -1,6 +1,6 @@
 ## EXNO-3-DS
 
-Developed By : Nara Guna Susmitha
+Developed by : Nara Guna Susmitha
 
 Register Number : 212224230176
 
